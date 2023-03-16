@@ -1,6 +1,7 @@
 //Wangpeng2021051615312
 //2023/3/14
 //单继承
+///开始
 #include <QApplication>
 #include <QDialog>
 #include "gotocelldialog.h"
